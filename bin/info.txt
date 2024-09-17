@@ -1,0 +1,7 @@
+Square:
+r = red square
+g = green square
+b = blue square
+
+p = power up
+s = super power up
